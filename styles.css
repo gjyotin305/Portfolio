@@ -1,6 +1,6 @@
 
     body{
-      background-color: #BAD7E9;
+      background-color: #B9F3FC;
     }
     
     .indexh{
@@ -23,6 +23,13 @@
         
     }
     
+    .indexhr{
+        border-style: dashed none none;
+        border-width: 6px;
+        width: 4%;
+        background-color: #F8EAD8;
+        color: #A084DC;
+    }
 
 
     
