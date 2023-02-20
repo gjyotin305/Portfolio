@@ -5,10 +5,15 @@
     
     .indexh{
       color: #18122B;
+      font-family: Garamond, serif;
+      font-size: 45px;
+      
     }
 
     .indexp1{
         color:#18122B;
+        font-family: Garamond, serif;
+        font-size: large;
     }
 
     #goku{
