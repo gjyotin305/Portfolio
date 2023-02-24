@@ -1,53 +1,118 @@
 
-    body{
-      background-color: #B9F3FC;
-    }
+ body{
+    margin:0;
+    text-align: center;
     
-    .indexh{
-      color: #18122B;
-      font-family: Garamond, serif;
-      font-size: 45px;
-      
-    }
+ }
+    
+    
 
-    .indexp1{
-        color:#18122B;
-        font-family: Garamond, serif;
+    p{
+        color:#47B5FF;
+        font-family: 'Montserrat', sans-serif;
         font-size: large;
+        font-weight: bold;
+        width: 50%;
+        margin: 0 auto 0 auto;
     }
 
-    #goku{
-        border-radius: 100%;
-        
-        background-color: #BAD7E9;
-    }
+
     
-    table{
-        table-layout: auto;
-        border-spacing: 3em 0em;
-        
-    }
     
-    .indexhr{
-        border-style: dashed none none;
-        border-width: 6px;
-        width: 4%;
-        background-color: #F8EAD8;
-        color: #A084DC;
+    
+    hr{
+        border-style: dotted none none;
+        border-width: 16px;
+        width: 5%;
+        opacity: 0.7;
+        color: #1C82AD;
     }
 
     .mailimg{
         height: 10px;
     }
 
-    caption{
-        color:#18122B;
-        font-family: Garamond, serif;
-        font-size: medium;
+  #profile_pic{
+    width: 18%;
+    float: left;
+    position: absolute;
+    left:3%;
+    top: 25%;
+    
+
+
+
+  }
+
+
+
+    .top_cont{
+        background-color: #06283D;
+        text-align: center;
+        padding-top: 20%;
+        padding-bottom: 20%;
+        margin: 0;
+        position: relative;
+        
+        
+    }
+
+    .profile{
+      background-color: #FCFFE7;
+      text-align: center;
+      margin: 0;
+      padding-top: 2%;
+      position: relative;
+      
+
 
     }
 
-    
+    .profile_h1{
+      color: #47B5FF;
+      font-family: 'VT323', monospace;
+      font-size: 300%;
+    }
 
+    .toph{
+        color: #DFF6FF;
+        font-size: 600%;
+        font-family: 'VT323', monospace;
+        
+        
+       
+        
+    }
+
+  .gif_1{
+    width: 20%;
+    height: auto;
+    position: absolute;
+    right: 74%;
+    bottom: 60%;
+  }
+    
+  .gif_2{
+    width: 20%;
+    height: auto;
+    position: absolute;
+    right:70%;
+    bottom: 5%;
+  }
+  .gif_3{
+    width: 20%;
+    height: auto;
+    position: absolute;
+    right: 5%;
+    bottom: 60%;
+  }
+
+  .gif_4{
+    width: 20%;
+    height: auto;
+    position: absolute;
+    right: 10%;
+    bottom: 5%;
+  }
 
     
