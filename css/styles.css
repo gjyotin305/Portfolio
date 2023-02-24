@@ -28,10 +28,7 @@
         color: #1C82AD;
     }
 
-    .mailimg{
-        height: 10px;
-    }
-
+   
   #profile_pic{
     width: 18%;
     float: left;
@@ -62,6 +59,7 @@
       text-align: center;
       margin: 0;
       padding-top: 2%;
+      padding-bottom: 2%;
       position: relative;
       
 
@@ -115,4 +113,50 @@
     bottom: 5%;
   }
 
+ 
+
+  .Projects{
+    background-color: #FCFFE7;
+    text-align: center;
+    margin: 0;
+    padding-top: 3%;
+    position: relative;
+    padding-bottom: 3%;
+
+
+  }
+  
+  .contact_me{
+    background-color: #FCFFE7;
+    text-align: center;
+    margin: 0;
+    padding-top: 3%;
+    position: relative;
+    padding-bottom: 10%;
+   
+   
+
+  }
+ 
+  .mail-img{
+    width:3%;
+    position: absolute;
+    left: 43%;
+    top: 48%;
+
+
+  }
+
+  .instagram-img{
+    position:absolute;
+    left:55%;
     
+
+
+  }
+
+  .linkedin-img{
+    position: absolute;
+    left: 49%;
+  
+  }
