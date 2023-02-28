@@ -162,26 +162,47 @@
   }
 
 
-  #Message{
-
-    padding-bottom: 5%;
-  }
+  
 
   button[type=submit]{
     background-color: gainsboro;
     opacity: 1.2;
     color: #111;
+    width: 15%;
+    cursor: pointer;
+    margin: auto;
     font-family: 'VT323', monospace;
     font-size: large;
     padding: 0.2% 0.25%;
 
   }
 
-  input[type="text"]{
+  input[type="text"],[type="number"]{
     background-color: gainsboro;
     opacity: 0.8;
     color: #111;
     border: 2px solid black;
 
+
+  }
+
+  form{
+
+    background-color: #FCFFE7;
+    display:flex;
+    flex-direction: column;
+    width: 20%;
+    max-width: 600px;
+    border-radius: 10px;
+    padding: 2vw 4vw;
+    margin: auto;
+
+
+  }
+
+  form h1{
+    color: #111;
+    font-family: 'VT323', monospace;
+    font-size: 300%;
 
   }
