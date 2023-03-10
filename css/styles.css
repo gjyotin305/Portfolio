@@ -168,12 +168,11 @@
     background-color: gainsboro;
     opacity: 1.2;
     color: #111;
-    width: 15%;
     cursor: pointer;
     margin: auto;
     font-family: 'VT323', monospace;
     font-size: large;
-    padding: 0.2% 0.25%;
+    padding: 2px 4px;
 
   }
 
