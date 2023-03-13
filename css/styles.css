@@ -128,7 +128,6 @@
   
   .contact_me{
     background-color: #FCFFE7;
-    text-align: center;
     margin: 0;
     padding-top: 3%;
     position: relative;
@@ -137,7 +136,19 @@
    
 
   }
- 
+  .flexbox{
+    display: flex;
+    background-color: #FCFFE7;
+    justify-content: center;
+  }
+
+  .flexbox > div{
+    flex-flow: row wrap;
+    margin: 5px;
+    align-items: baseline;
+  }
+
+
   .mail-img{
     
     position: absolute;
