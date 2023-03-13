@@ -139,12 +139,11 @@
   .flexbox{
     display: flex;
     background-color: #FCFFE7;
-    justify-content: center;
+    justify-content: space-between;
   }
 
   .flexbox > div{
     flex-flow: row wrap;
-    margin: 5px;
     align-items: baseline;
   }
 
