@@ -130,46 +130,28 @@
     background-color: #FCFFE7;
     margin: 0;
     padding-top: 3%;
-    position: relative;
     padding-bottom: 30%;
    
    
 
   }
+
   .flexbox{
     display: flex;
-    background-color: #FCFFE7;
-    justify-content: space-between;
+    justify-content: center;
+    flex-flow: row wrap;
+
   }
 
   .flexbox > div{
-    flex-flow: row wrap;
-    align-items: baseline;
-  }
-
-
-  .mail-img{
-    
-    position: absolute;
-    left: 43%;
-    
-
+    margin: 10px;
+    padding: 5px;
 
   }
 
-  .instagram-img{
-    position:absolute;
-    left:55%;
-    
 
 
-  }
 
-  .linkedin-img{
-    position: absolute;
-    left: 49%;
-  
-  }
 
 
   
