@@ -2,9 +2,13 @@
  body{
     margin:0;
     text-align: center;
+    align-items: center;
     
  }
-    
+ 
+ .navbar-brand{
+  font-family: 'VT323', monospace;
+ }
     
 
     p{
